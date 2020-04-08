@@ -10,4 +10,4 @@ spec:
           - path: /
             backend:
               serviceName: tcluster
-              servicePort: 9080
+              servicePort: 31609
