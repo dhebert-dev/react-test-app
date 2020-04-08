@@ -9,5 +9,5 @@ spec:
         paths:
           - path: /
             backend:
-              serviceName: <service-name>
+              serviceName: tcluster
               servicePort: 9080

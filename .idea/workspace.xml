@@ -27,6 +27,11 @@
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="Docker" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DestinHebert\Desktop\EVO\IBM Cloud\Public React Test App\react-test-app" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
@@ -66,7 +71,7 @@
       <updated>1586361818199</updated>
       <workItem from="1586361821545" duration="159000" />
       <workItem from="1586362889459" duration="4927000" />
-      <workItem from="1586383280722" duration="121000" />
+      <workItem from="1586383280722" duration="734000" />
     </task>
     <servers />
   </component>
