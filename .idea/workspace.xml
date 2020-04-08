@@ -19,6 +19,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -64,7 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1586361818199</updated>
       <workItem from="1586361821545" duration="159000" />
-      <workItem from="1586362889459" duration="3844000" />
+      <workItem from="1586362889459" duration="4927000" />
+      <workItem from="1586383280722" duration="121000" />
     </task>
     <servers />
   </component>
@@ -84,10 +86,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="508" y="203" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1586364098251" />
-    <state x="548" y="155" key="FileChooserDialogImpl" timestamp="1586363470234">
+    <state x="548" y="155" key="FileChooserDialogImpl" timestamp="1586379373772">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="155" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1586363470233" />
+    <state x="548" y="155" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1586379373772" />
     <state x="277" y="56" key="SettingsEditor" timestamp="1586363571482">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
